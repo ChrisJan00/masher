@@ -58,8 +58,6 @@ function mainLoop(timestamp) {
 }
 
 function updateLogic(dt) {
-    if (pause != undefined && pause == true) return
-
     // poll gamepads
     pollGamepads()
 
@@ -113,9 +111,7 @@ function keyup(event) {
     G.keyfilter[key] = false
 }
 
-pause = false
 function keypressed(key) {
-    if (key == " ") pause = !pause
     if (G.timer > 0) {
         if (key == "A")
             reactPressed(1)
