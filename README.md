@@ -10,7 +10,7 @@ BUTTON MASHING DUEL
     Browser version ported to HTML5/canvas
 
     Instructions inside game
-    Supports gamepad or keyboard input
+    Supports gamepad and keyboard input
 
 Play now: http://chrisjan00.github.io/masher
 
