@@ -9,8 +9,9 @@ BUTTON MASHING DUEL
     Original version written in Löve2D
     Browser version ported to HTML5/canvas
 
-    Play now: 
-    http://chrisjan00.github.io/masher
-
     Instructions inside game
     Supports gamepad or keyboard input
+
+Play now: http://chrisjan00.github.io/masher
+
+    
