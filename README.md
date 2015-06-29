@@ -12,6 +12,11 @@ BUTTON MASHING DUEL
     Instructions inside game
     Supports gamepad and keyboard input
 
+
 Play now: http://chrisjan00.github.io/masher
+
+License: 
+Creative Commons 4.0 Attribution (CC-BY)
+http://creativecommons.org/licenses/by/4.0/
 
     
